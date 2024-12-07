@@ -1,6 +1,39 @@
-!LOGO[
+![LOGO](https://github.com/simranb2602/simranb2602/blob/main/BANNER%202.png?raw=true)
 
-<h3 align="center">A passionate Data ANALYST</h3>
+<h1 align="center">Hi 👋, I'm Simran Bawa</h1>
+<h3 align="center">A Data ANALYST</h3>
+
+<p align="left">
+  As a Data Analyst, I am committed to transforming data into actionable insights that drive change. With over 6 successful end-to-end projects, including achieving 90% accuracy in healthcare predictions and 81% accuracy in flight delay forecasting, I am ready to contribute my skills to tackle real-world challenges.
+</p>
+
+<p align="left">
+  I don't just analyze data; I bring it to life to create solutions that make an impact. Whether it's predictive modeling, machine learning, or data visualization, I approach every project with the goal of delivering valuable outcomes that push innovation forward.
+</p>
+
+<h3 align="left"><strong>Key Achievements:</strong></h3>
+<p align="left">
+  These are some of my key achievements:
+</p>
+<ul>
+  <li>Flight delay prediction model: 81.19% accuracy, optimizing operations using historical and weather data.</li>
+  <li>Traffic sign recognition system: 79% accuracy, improving model performance through data augmentation.</li>
+  <li>Reddit sarcasm detection: 62.9% accuracy using LSTM architecture.</li>
+  <li>Zodiac sign prediction: Increased accuracy by 50% with advanced machine learning techniques.</li>
+</ul>
+
+<h3 align="left"><strong>Skills & Expertise:</strong></h3>
+<ul>
+  <li>Programming: Python, SQL, Power BI, MATLAB, Excel</li>
+  <li>Core Competencies: Predictive Modeling, Data Visualization, Machine Learning, Data Cleaning, Statistical Analysis</li>
+  <li>Tools: NoSQL, MongoDB, NLP, Computer Vision</li>
+  <li>Soft Skills: Problem-Solving, Collaboration, Communication, Team Coordination</li>
+</ul>
+
+<p align="left">
+  I’m excited to bring my knowledge and passion for data analysis to new challenges and collaborative opportunities. Let’s connect and make a difference through data!
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranb2602&label=Profile%20views&color=0e75b6&style=flat" alt="simranb2602" /> </p>
 
