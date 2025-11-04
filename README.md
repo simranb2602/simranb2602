@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simran Bawa</h1>
-<h3 align="center">A Business Analyst/</h3>
+<h3 align="center">A Business Analyst</h3>
 
 <p align="left">
   As a Analyst, I am committed to transforming data into actionable insights that drive change. With over 6 successful end-to-end projects, including achieving 90% accuracy in healthcare predictions and 81% accuracy in flight delay forecasting, I am ready to contribute my skills to tackle real-world challenges.
