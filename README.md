@@ -1,5 +1,3 @@
-![LOGO](https://github.com/simranb2602/simranb2602/blob/main/BANNER%202.png?raw=true)
-
 <h1 align="center">Hi 👋, I'm Simran Bawa</h1>
 <h3 align="center">A Data Analyst</h3>
 
